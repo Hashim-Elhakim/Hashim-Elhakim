@@ -1,3 +1,4 @@
+<img width="832" height="1248" alt="Hashim-Elhakim" src="https://github.com/user-attachments/assets/dd9b31dd-2fec-4753-8930-e4bc148927c1" />
 ## Hi there 👋
 
 <!--
