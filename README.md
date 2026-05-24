@@ -1,4 +1,5 @@
-<img width="832" height="1248" alt="Hashim-Elhakim" src="https://github.com/user-attachments/assets/dd9b31dd-2fec-4753-8930-e4bc148927c1" />
+<img width="828" height="437" alt="Hashim-Elhakim" src="https://github.com/user-attachments/assets/a5599765-7f8c-4775-9e4e-c6b76a120e4e" />
+
 ## Hi there 👋
 
 <!--
