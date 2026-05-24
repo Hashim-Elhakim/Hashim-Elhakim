@@ -1,8 +1,7 @@
 <img width="828" height="437" alt="Hashim-Elhakim" src="https://github.com/user-attachments/assets/a5599765-7f8c-4775-9e4e-c6b76a120e4e" />
-                                                            
-
-                                                                                          ## Hi there 👋  
-                                                                                    This is **Hashim Elhakim**
+                                                         
+                                                              ## Hi there 👋  
+                                                         This is Hashim Elhakim
 
 ## About Me
 
